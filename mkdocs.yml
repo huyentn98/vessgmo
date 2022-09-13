@@ -1,0 +1,103 @@
+site_name: Hướng dẫn sử dụng hệ thống vESS
+
+nav:
+    - 'Trang chủ': 'index.md'
+    - 'Đăng ký, đăng nhập': 
+        - 'Đăng ký & cài đặt': 'saas/saas.md'
+        - 'Đăng nhập, đăng xuất': 'digitalworkplace/Addon-login.md'
+        - 'Đăng nhập bằng QR code': 'digitalworkplace/Addon-QRcode.md'
+        - 'Đăng nhập bằng G+': 'digitalworkplace/Addon-DangNhapG.md'
+        - 'Xác thực 2 bước': 'digitalworkplace/Addon-xac-thuc-hai-buoc.md'
+    - 'Nhân sự': 
+        - 'Giới thiệu về phân hệ Quản lý nhân sự': 'hrm/introduction.md'
+        - 'Thiết lập và khai báo ban đầu': 'hrm/initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'hrm/abbreviations.md'
+        - 'Khai báo danh mục': 'hrm/master-datas.md'
+        - 'Tuyển dụng': 'hrm/recruitment.md'
+        - 'Nhân viên': 'hrm/employee.md'
+        - 'Chấm công': 'hrm/attendance.md'
+        - 'Tính lương': 'hrm/payroll.md'
+        - 'Lịch sử phát triển sản phẩm': 'hrm/log-histories.md'
+    - 'Kế toán - Dành cho doanh nghiệp':
+        - 'Giới thiệu về phân hệ Kế toán': 'finance/fin-introduction.md'
+        - 'Thiết lập và khai báo ban đầu': 'finance/fin-initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'finance/fin-abbreviations.md'
+        - 'Khai báo danh mục': 'finance/fin-danh-muc-new.md'
+        - 'Quản lý tiền - Tiền mặt': 'finance/fin-tien-TM.md'
+        - 'Quản lý tiền - Tiền gửi': 'finance/fin-tien-NH.md'
+        - 'Mua hàng': 'finance/fin-mua-hang.md'
+        - 'Bán hàng': 'finance/fin-ban-hang.md'
+        - 'Hóa đơn': 'finance/fin-hoa-don-dien-tu.md'        
+        - 'Tổng hợp': 'finance/fin-ke-toan-tong-hop.md'
+        - 'Kho vận': 'finance/fin-kho.md'
+        - 'Thuế': 'finance/fin-thue.md'
+        - 'Tài sản cố định': 'finance/fin-tscd.md'
+        - 'Công cụ dụng cụ': 'finance/fin-ccdc.md'
+        - 'Giá thành': 'finance/fin-giathanh.md'
+        - 'Báo cáo': 'finance/fin-bao-cao.md'
+        - 'Lịch sử phát triển sản phẩm': 'finance/fin-log-histories.md'
+    - 'Kế toán - Dành cho hộ, cá thể':
+        - 'Giới thiệu về phân hệ Kế toán': 'finance_TT88/fin-introduction-88.md'
+        - 'Thiết lập và khai báo ban đầu': 'finance_TT88/fin-initialization-88.md'
+        - 'Các thuật ngữ và từ viết tắt': 'finance_TT88/fin-abbreviations-88.md'
+        - 'Khai báo danh mục': 'finance_TT88/fin-danh-muc-new-88.md'
+        - 'Quản lý tiền - Tiền mặt': 'finance_TT88/fin-tien-TM-88.md'
+        - 'Quản lý tiền - Tiền gửi': 'finance_TT88/fin-tien-NH-88.md'
+        - 'Mua hàng': 'finance_TT88/fin-mua-hang-88.md'
+        - 'Bán hàng': 'finance_TT88/fin-ban-hang-88.md'
+        - 'Hóa đơn điện tử': 'finance_TT88/fin-hoa-don-dien-tu-88.md'
+        - 'Kế toán': 'finance_TT88/fin-ke-toan-tong-hop-88.md'
+        - 'Kho vận': 'finance_TT88/fin-kho-88.md'
+        - 'Thuế': 'finance_TT88/fin-thue-88.md'
+        - 'Báo cáo': 'finance_TT88/fin-bao-cao-88.md'
+        - 'Lịch sử phát triển sản phẩm': 'finance_TT88/fin-log-histories-88.md'
+    - 'Tài liệu': 
+        - 'Giới thiệu về ứng dụng Tài liệu': 'document/introduction.md'
+        - 'Các thuật ngữ và từ viết tắt': 'document/abbreviations.md'
+        - 'Thiết lập và khai báo ban đầu': 'document/initialization.md'
+        - 'Tài liệu': 'document/document.md'
+        - 'Quản lý tài liệu trên điện thoại': 'document/Addon-Tailieu-mobile.md'
+    - 'Ký số': 
+        - 'Giới thiệu về ứng dụng Ký số': 'esign/introduction.md'
+        - 'Thiết lập và khai báo ban đầu': 'esign/initialization.md'
+        - 'Ký số': 'esign/esign.md' 
+    - 'Digital workplace': 
+        - 'Giới thiệu về phân hệ Digital workplace': 'digitalworkplace/Gioi-thieu-digital-workplace.md'
+        - 'Thiết lập và khai báo ban đầu': 'digitalworkplace/dw-initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'digitalworkplace/Thuat-ngu-viet-tat.md'
+        - 'Trang web': 'digitalworkplace/Addon-Website.md'
+        - 'Mạng xã hội': 'digitalworkplace/Addon-Social.md'
+        - 'Dự án': 'digitalworkplace/Addon-project.md'
+        - 'Khảo sát': 'digitalworkplace/Addon-khao-sat.md'
+        - 'Ghi chú': 'digitalworkplace/Addon-ghi-chu.md'
+        - 'Timesheet': 'digitalworkplace/Addon-timesheet.md'
+        - 'Sự kiện': 'digitalworkplace/Addon-su-kien.md'
+        - 'Bữa ăn': 'digitalworkplace/Addon-bua-an.md'
+        - 'Phê duyệt trên web': 'digitalworkplace/Addon-PheDuyet-Web.md'
+        - 'Cuộc họp trực tuyến': 'digitalworkplace/Addon-meeting.md'
+        - 'Chỉ số đo lường KPI': 'digitalworkplace/Addon-KPI.md'
+        - 'Chỉ số đo lường OKR': 'digitalworkplace/Addon-OKR.md'
+        - 'Lịch sử phát triển sản phẩm': 'digitalworkplace/Lich-su-phat-trien.md'
+    - 'vESS Mobile': 
+        - 'Giới thiệu về vESS mobile': 'vESS_mobile/Gioi-thieu-vess-mobile.md'
+        - 'Thiết lập và khai báo ban đầu': 'vESS_mobile/Mobile-initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'vESS_mobile/Thuat-ngu-viet-tat.md'
+        - 'Đăng nhập': 'vESS_mobile/Mobile-dang-nhap.md'
+        - 'Phê duyệt trên mobile': 'vESS_mobile/Addon-phe-duyet.md'
+        - 'Ký số': 'vESS_mobile/Addon-ky-so.md'
+        - 'Bữa ăn': 'vESS_mobile/Addon_BuaAn.md'
+        - 'Dự án': 'vESS_mobile/Addon_DuAn.md'
+        - 'Lịch': 'vESS_mobile/Addon_Lich.md'
+        - 'Lịch sử phát triển sản phẩm': 'vESS_mobile/Mobile-Lich-su-phat-trien.md'
+    - 'vContract - Hợp đồng điện tử': 
+        - 'Thiết lập luồng ký hợp đồng': 'vContract/thiet-lap-luong-ky.md'                                                
+    - 'Release Notes': 'release-notes.md'
+theme:
+    name: readthedocs
+    navigation_depth: 100
+    highlightjs: true
+extra_css:
+    - css/extra.css
+extra_javascript:
+    - js/extra.js
+copyright: Prepared by <a href="https://vess.vn/">vESS Team - Viettel Group.</a>
